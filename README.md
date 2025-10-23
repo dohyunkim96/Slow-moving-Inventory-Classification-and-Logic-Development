@@ -67,7 +67,7 @@
 ---
 
 ### 📊 주요 결과   
-<img width="400" height="300" alt="재고 분류" src="https://github.com/user-attachments/assets/4597d660-f546-4b58-897c-d17d5851bb6e" />  
+![재고 분류](images/Inventory_Classification.png)
 
 1️⃣ **재고 분류 결과 요약**  
 - 전체 재고 1,975개 중  
@@ -77,7 +77,7 @@
 - 부진재고점수 평균은 약 0.6 수준이며, 대부분 0.5~0.7 구간에 분포  
 → 판매가 활발하지 않거나 회전율이 낮은 제품이 전체의 절반 이상 차지  
 
-<img width="600" height="600" alt="그룹별 부진 재고 비율" src="https://github.com/user-attachments/assets/0d5866f8-30c1-4bcf-a16c-6107a38eda8a" />
+![그룹별 부진 재고 비율](images/Slow_Moving_Inventory_Ratio_by_Group.png)
 
 2️⃣ **사업군(biz)별 부진 비중**  
 | 구분 | 부진재고 비율 |
@@ -124,7 +124,7 @@
 
 ### 💡 개선 및 제안  
 
-<img width="500" height="290" alt="입고경과일수_재고회전율" src="https://github.com/user-attachments/assets/cb02d38a-a912-4fbe-b071-0ad6e293ffdc" />
+![입고경과일수_재고회전율](images/Stock_Age_vs_Inventory_Turnover.png)
 
 - 판매 속도와 시간 경과의 관계를 시각화한 그래프.  
 - 오래된 재고일수록 회전율이 낮아 부진 가능성이 높음을 보여줌.  
