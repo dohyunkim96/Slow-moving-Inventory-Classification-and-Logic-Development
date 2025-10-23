@@ -1,5 +1,4 @@
-# 📦 Sluggish Inventory Classification and Logic Development  
-**부진 재고 분석 및 분류 로직 개발 프로젝트**
+# 📦 부진 재고 분석 및 분류 로직 개발 프로젝트
 
 ---
 
